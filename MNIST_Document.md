@@ -7,8 +7,19 @@ Problema: Categorización de números (y letras) escritas a mano.
 
 
 ---
-# Historia del MNIST
+## Historia del MNIST
 
+*National Institute of Standards and Technology* (**NIST**) es un instituto en los Estados Unidos, cuya misión es promover la innovación y la competencia industrial en el país. Como parte de esta misión, los científicos e ingenieros del NIST continuamente refinan la ciencia de la medición (metrología) y utilizan grandes bases de datos para su continua experimentación.
+
+<figure>
+    <center><img src="./img/sd19.jpg"
+          width="260" height="400">
+    </center>
+    <figcaption align = "center">Documento utilizado para la recolección de los Datos en 1989</figcaption>
+</figure>
+
+
+El conjunto de imágenes en el MNIST database fue creado en 1994 como una combinación de dos bases de datos en NIST: *Special Database 1* and *Special Database 3*. Estas bases de datos consistían en dígitos escritos por estudiantes de preparatoria y empleados de la Oficina del Censo de los Estados Unidos, respectivamente.
 
 ---
 # Redes Neuronales para solucionar el problema
