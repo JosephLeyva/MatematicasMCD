@@ -60,7 +60,14 @@ Frecuentemente, las redes neuronales tienen cientos de miles de parámetros, con
 Con el MNIST se pueden aplicar varios diseños al ser un conjunto de datos relativamente sencillo de estudiar. Incluso se han desarrollo modelos que no necesariamente tienen que ver con el uso de redes neuronales. Sin embargo, podemos usar los siguientes modelos:
 
 ### Fully-Connected Neural Networks (FCN)
+
+Una red neuronal totalmente conectada consta de una serie de capas totalmente conectadas que conectan cada neurona de una capa con cada neurona de la otra capa.
+
 ![FCN](./img/fcn.png)
 
 ### Convolutional Meural Networs (CNN)
+
+Las arquitecturas CNN asumen explícitamente que las entradas son imágenes, lo que permite codificar ciertas propiedades en la arquitectura del modelo.
+Una CNN simple es una secuencia de capas, y cada capa de una CNN transforma un volumen de activaciones en otro a través de una función diferenciable. Se utilizan tres tipos principales de capas para construir la arquitectura CNN: capa convolucional, capa de pooling y capa totalmente conectada (FCN).
+
 ![CNN](./img/cnn.png)
