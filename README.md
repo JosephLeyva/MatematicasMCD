@@ -11,6 +11,8 @@ https://en.wikipedia.org/wiki/MNIST_database
 
 https://www.youtube.com/watch?v=Q95769HOIyw
 
+https://github.com/christianversloot/machine-learning-articles/blob/main/how-to-predict-new-samples-with-your-keras-model.md
+
 ---
 ### Guía para aprender Markdown
 https://www.markdownguide.org/basic-syntax
